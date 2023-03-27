@@ -28,7 +28,7 @@ http://181.189.243.254:8000/play/a0v2/index.m3u8
 http://181.189.243.254:8000/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943091-8c.png",Universal Crime
 http://181.189.243.254:8000/play/a0t0/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png",Universal Premiere
+#EXTINF:-1 tvg-shift=+1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png",Universal Premiere
 http://181.189.243.254:8000/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943093-8c.png",Universal Reality
 http://181.189.243.254:8000/play/a0sz/index.m3u8
