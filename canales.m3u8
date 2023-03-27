@@ -26,8 +26,13 @@ http://181.189.243.254:8000/play/a0ot/index.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" group-title="Cine",HBO Xtreme
 http://181.189.243.254:8000/play/a0ov/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png" group-title="Cine",HBO POP
-http://181.39.202.98:9948/play/a10p/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="Cine",HBO Mundi
-http://200.24.204.242:6020/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0v2.png",Universal Cinema
+http://181.189.243.254:8000/play/a0v2/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t1.png",Universal Comedy
+http://181.189.243.254:8000/play/a0t1/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t0.png",Universal Crime
+http://181.189.243.254:8000/play/a0t0/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ui.png",Universal Premiere
+http://181.189.243.254:8000/play/a0ui/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sz.png",Universal Reality
+http://181.189.243.254:8000/play/a0sz/index.m3u8
