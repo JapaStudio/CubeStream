@@ -1,5 +1,4 @@
-#EXTM3U url-epg="https://iptv-org.github.io/epg/guides/es/gatotv.com.xml"
-
+#EXTM3U
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="Abierta",Azteca Uno
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/canal113.m3u8
 
@@ -21,7 +20,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png" group-title="Abierta",Azteca 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/canal107.m3u8
 
-#EXTINF:-1, tvg-id="ADN40.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="Abierta",ADN 40
+#EXTINF:-1, tvg-id="ADN40.mx",
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/canal140.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="Abierta",Nueve
