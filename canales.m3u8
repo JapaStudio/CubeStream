@@ -20,6 +20,15 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png",DPXHIMT
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png",MTV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425451-8c.png",MTV Live
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425451-8c.png",MTV Hits Latinoamerica
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png",HBO
 http://181.189.243.254:8000/play/a0or/index.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png",HBO 2
