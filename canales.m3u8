@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U  tvg-shift=+6
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png",AZUNOHD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
 
