@@ -189,14 +189,23 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png",Golden Plus
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 
+#EXTINF:-1, tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/cropped-mp-logo-4.png",Multipremier
+http://160.20.165.246:8000/play/a00b/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543978-8c.png",Golden
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
+http://38.7.131.2:8000/play/a09h/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543978-8c.png",GOLDEDG
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416581-8c.png",TBS America Latina
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
+
+#EXTINF:-1, tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png",GPREMSD
+http://45.176.193.20:7837/play/a06h
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416587-8c.png",Telemundo Internacional
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
@@ -287,9 +296,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1016572-8c.png",DHE
 http://190.186.159.19:58001/play/a01h/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",Love Nature
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png",MTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
