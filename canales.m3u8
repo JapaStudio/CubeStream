@@ -108,6 +108,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE05.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png",Disney Channel
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png",Cartoon Network
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
@@ -121,13 +122,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425245-8c.png",National Geographic
 http://190.60.37.69:8015/play/a00e/index.m3u8
 
-#EXTINF:-1, tvg-logo="",
-#EXTINF:-1, tvg-logo="",
-#EXTINF:-1, tvg-logo="",
-#EXTINF:-1, tvg-logo="",
-#EXTINF:-1, tvg-logo="",
-#EXTINF:-1, tvg-logo="",
-#EXTINF:-1, tvg-logo="",
 #EXTINF:-1, tvg-logo="",
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png",Golden Plus
