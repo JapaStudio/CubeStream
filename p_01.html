@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Cube</title>
+    <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet">
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      .video-js {
+	  width: 100%;
+	  height: 100%;
+	  max-width: 100vw; /* ajusta el ancho máximo al ancho de la pantalla */
+	  max-height: 56.25vw; /* mantiene la proporción de aspecto 16:9 */
+	  min-width: 320px;
+	  min-height: 180px;
+	}
+    </style>
+  </head>
+  <body>
+    <video id="my-video" class="video-js" controls preload="auto" poster="https://archive.org/download/splash-1_202304/splash%20%281%29.png" data-setup="{}">
+      <source src="http://fdddf454c5241c548s7d87saopsjksdjdf265621d.rossteleccom.net/iptv/QUB8WSBWDLLNU5/5015/index.m3u8"  type="application/x-mpegURL">
+      <p class="vjs-no-js">
+        Para ver este video, habilite JavaScript y considere actualizar a un navegador web que
+        <a href="https://videojs.com/html5-video-support/" target="_blank">soporte video HTML5</a>
+      </p>
+    </video>
+    <script src="https://vjs.zencdn.net/7.15.4/video.min.js"></script>
+  </body>
+</html>
