@@ -353,9 +353,12 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL703/canal703.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png",MTV 80s Latinoamerica
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/canal728.m3u8
 
-#EXTINF:-1 tvg-id="XHTVMDT2.mx" tvg-name="XHTVMDT2 (XHTVM-DT2)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="ABIERTA", Azteca Uno - 2 hora
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="Premium",HBO Pop
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-2HRS-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
