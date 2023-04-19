@@ -7,7 +7,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",Golden
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Premium",Bandamax
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" ,Bandamax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
