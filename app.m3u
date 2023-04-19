@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-#EXTINF:-1  tvg-id="I339.80804.schedulesdirect.org" tvg-name="Golden Premier" tvg-logo="https://images.vix.com/prd/channel/62d8ac0d128f7d3b5e936737/50a4c484840a9f36bc512a4edd4591af",Golden Premier
+#EXTINF:-1 group-title="Online", Golden Premier tvg-id="I339.80804.schedulesdirect.org"
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
