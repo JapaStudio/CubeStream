@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png",AZUNOHD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/canal113.m3u8
 
@@ -124,7 +123,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/canal2591.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/canal353.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425245-8c.png",National Geographic
-http://131.196.194.2:8000/play/a0ej
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/canal377.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964952-8c.png",H2 Latinoamerica
 http://45.161.115.26:50000/play/a01o/index.m3u8
@@ -332,6 +331,12 @@ http://181.189.243.254:8000/play/a0ui/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943093-8c.png",Universal Reality
 http://181.189.243.254:8000/play/a0sz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png",Telehit Música Plus
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL702/canal702.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png",CLOCAL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL731/canal731.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png",MTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/canal726.m3u8
