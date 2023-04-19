@@ -186,26 +186,20 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL269/canal269.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425223-8c.png",Glitz Latinoamerica
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/canal270.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png",Golden Plus
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png",Golden Plus
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/canal436.m3u8
 
-#EXTINF:-1 tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/cropped-mp-logo-4.png",Multipremier
-http://160.20.165.246:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png",Golden Edge
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/canal484.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543978-8c.png",Golden
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png",Golden
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/canal123.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",Cine Latino
-http://38.7.131.2:8000/play/a09h/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543978-8c.png",GOLDEDG
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/canal484.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png",GPREMSD
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416581-8c.png",TBS America Latina
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/canal273.m3u8
-
-#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png",GPREMSD
-http://45.176.193.20:7837/play/a06h
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416587-8c.png",Telemundo Internacional
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/canal85.m3u8
@@ -350,8 +344,3 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL703/canal703.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png",MTV 80s Latinoamerica
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/canal728.m3u8
-
-#EXTINF:-1 tvg-logo=”https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png” tvg-group=”CATEGORIA”,HBO Pop
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
-https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
