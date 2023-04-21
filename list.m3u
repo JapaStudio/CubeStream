@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/p87vnrmkr1txr7wgy41j"
+#EXTM3U  tvg-shift=-3 url-tvg="http://m3u4u.com/epg/p87vnrmkr1txr7wgy41j"
 #EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Totalplay" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/484379-8c.png" group-title="Sala",Totalplay
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1/canal1.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="Sala",Azteca Uno
