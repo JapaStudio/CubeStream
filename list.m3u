@@ -1,223 +1,223 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnrmkr1txr7wgy41j"
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Totalplay" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/484379-8c.png" group-title="Sala" tvg-shift="-5",Totalplay
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Totalplay" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/484379-8c.png" group-title="Sala" tvg-shift="-10",Totalplay
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1/canal1.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="Sala" tvg-shift="-5",Azteca Uno
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="Sala" tvg-shift="-10",Azteca Uno
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/canal113.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" group-title="Sala" tvg-shift="-5",Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" group-title="Sala" tvg-shift="-10",Las Estrellas
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/canal102.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Sala" tvg-shift="-5",Imagen TV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Sala" tvg-shift="-10",Imagen TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/canal2298.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png" group-title="Sala" tvg-shift="-5",Foro TV
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png" group-title="Sala" tvg-shift="-10",Foro TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/canal104.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png" group-title="Sala" tvg-shift="-5",Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png" group-title="Sala" tvg-shift="-10",Canal 5
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/canal105.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV Unam" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425558-8c.png" group-title="Sala" tvg-shift="-5",TV Unam
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV Unam" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425558-8c.png" group-title="Sala" tvg-shift="-10",TV Unam
 https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalNu9ve.mx" tvg-name="NU9VE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="Sala" tvg-shift="-5",NU9VE
+#EXTINF:-1 tvg-id="CanalNu9ve.mx" tvg-name="NU9VE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="Sala" tvg-shift="-10",NU9VE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/canal109.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522484-8c.png" group-title="Sala" tvg-shift="-5",Multimedios
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="Multimedios" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522484-8c.png" group-title="Sala" tvg-shift="-10",Multimedios
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/canal167.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png" group-title="Sala" tvg-shift="-5",Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png" group-title="Sala" tvg-shift="-10",Azteca 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/canal107.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Corazon de la Capital" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="Sala" tvg-shift="-5",Corazon de la Capital
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Corazon de la Capital" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="Sala" tvg-shift="-10",Corazon de la Capital
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1039678-8c.png" group-title="Sala" tvg-shift="-5",ADN 40
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1039678-8c.png" group-title="Sala" tvg-shift="-10",ADN 40
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2/canal2.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DuplicateXEIPNTVCanal11(OnceTV).mx" tvg-name="Once" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="Sala" tvg-shift="-5",Once
+#EXTINF:-1 tvg-id="DuplicateXEIPNTVCanal11(OnceTV).mx" tvg-name="Once" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="Sala" tvg-shift="-10",Once
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/canal111.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="TV Mexiquense" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/965016-8c.png" group-title="Sala" tvg-shift="-5",TV Mexiquense
+#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="TV Mexiquense" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/965016-8c.png" group-title="Sala" tvg-shift="-10",TV Mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A mas +" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="Sala" tvg-shift="-5",A mas +
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A mas +" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="Sala" tvg-shift="-10",A mas +
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2278/canal2278.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal 14" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="Sala" tvg-shift="-5",Canal 14
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal 14" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="Sala" tvg-shift="-10",Canal 14
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/.m3u8
-#EXTINF:-1 tvg-id="MXNuestroCine.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1048602-8c.png" group-title="Sala" tvg-shift="-5",MX Nuestro Cine
+#EXTINF:-1 tvg-id="MXNuestroCine.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1048602-8c.png" group-title="Sala" tvg-shift="-10",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Once Niños" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518647-8c.png" group-title="Sala" tvg-shift="-5",Once Niños
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Once Niños" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518647-8c.png" group-title="Sala" tvg-shift="-10",Once Niños
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/canal3315.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928370-8c.png" group-title="Sala" tvg-shift="-5",Corazón
+#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928370-8c.png" group-title="Sala" tvg-shift="-10",Corazón
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL250/canal250.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928329-8c.png" group-title="Sala" tvg-shift="-5",Clic
+#EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928329-8c.png" group-title="Sala" tvg-shift="-10",Clic
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/canal725.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416421-8c.png" group-title="Sala" tvg-shift="-5",Teleformula
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416421-8c.png" group-title="Sala" tvg-shift="-10",Teleformula
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/canal161.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Congreso Nacional TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425505-8c.png" group-title="Sala" tvg-shift="-5",Congreso Nacional TV
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Congreso Nacional TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425505-8c.png" group-title="Sala" tvg-shift="-10",Congreso Nacional TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/canal2331.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928310-8c.png" group-title="Sala" tvg-shift="-5",Cinema
+#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928310-8c.png" group-title="Sala" tvg-shift="-10",Cinema
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/canal425.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DuplicateXEIMTTVMetropolitan(Canal22).mx" tvg-name="Canal 22" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496852-8c.png" group-title="Sala" tvg-shift="-5",Canal 22
+#EXTINF:-1 tvg-id="DuplicateXEIMTTVMetropolitan(Canal22).mx" tvg-name="Canal 22" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496852-8c.png" group-title="Sala" tvg-shift="-10",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist_1920x1080.m3u8?
-#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928343-8c.png" group-title="Sala" tvg-shift="-5",Mundo
+#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928343-8c.png" group-title="Sala" tvg-shift="-10",Mundo
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/canal276.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png" group-title="Sala" tvg-shift="-5",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png" group-title="Sala" tvg-shift="-10",Star Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/canal201.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416543-8c.png" group-title="Sala" tvg-shift="-5",Canal Sony
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416543-8c.png" group-title="Sala" tvg-shift="-10",Canal Sony
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/canal203.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png" group-title="Sala" tvg-shift="-5",Warner Channel
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png" group-title="Sala" tvg-shift="-10",Warner Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/canal205.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416551-8c.png" group-title="Sala" tvg-shift="-5",A&E
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416551-8c.png" group-title="Sala" tvg-shift="-10",A&E
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/canal211.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422008-8c.png" group-title="Sala" tvg-shift="-5",AXN
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422008-8c.png" group-title="Sala" tvg-shift="-10",AXN
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2507/canal2507.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416559-8c.png" group-title="Sala" tvg-shift="-5",Unicable
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416559-8c.png" group-title="Sala" tvg-shift="-10",Unicable
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/canal218.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png" group-title="Sala" tvg-shift="-5",E!
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png" group-title="Sala" tvg-shift="-10",E!
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL255/canal255.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="Sala" tvg-shift="-5",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="Sala" tvg-shift="-10",TNT Series
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/canal266.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="El Gourmet" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416575-8c.png" group-title="Sala" tvg-shift="-5",El Gourmet
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="El Gourmet" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416575-8c.png" group-title="Sala" tvg-shift="-10",El Gourmet
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL268/canal268.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416579-8c.png" group-title="Sala" tvg-shift="-5",Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416579-8c.png" group-title="Sala" tvg-shift="-10",Distrito Comedia
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/canal272.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNovelas" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416583-8c.png" group-title="Sala" tvg-shift="-5",TLNovelas
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNovelas" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416583-8c.png" group-title="Sala" tvg-shift="-10",TLNovelas
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/canal275.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png" group-title="Sala" tvg-shift="-5",Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png" group-title="Sala" tvg-shift="-10",Discovery Kids
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/canal303.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416593-8c.png" group-title="Sala" tvg-shift="-5",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416593-8c.png" group-title="Sala" tvg-shift="-10",Disney Junior
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL308/canal308.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png" group-title="Sala" tvg-shift="-5",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png" group-title="Sala" tvg-shift="-10",Disney Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/canal312.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png" group-title="Sala" tvg-shift="-5",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png" group-title="Sala" tvg-shift="-10",Cartoon Network
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/canal320.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Bitme.mx" tvg-name="Bitme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416611-8c.png" group-title="Sala" tvg-shift="-5",Bitme
+#EXTINF:-1 tvg-id="Bitme.mx" tvg-name="Bitme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416611-8c.png" group-title="Sala" tvg-shift="-10",Bitme
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/canal2591.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png" group-title="Sala" tvg-shift="-5",History
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964936-8c.png" group-title="Sala" tvg-shift="-10",History
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/canal353.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425245-8c.png" group-title="Sala" tvg-shift="-5",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425245-8c.png" group-title="Sala" tvg-shift="-10",National Geographic
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/canal377.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964952-8c.png" group-title="Sala" tvg-shift="-5",H2 Latinoamerica
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2 Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/964952-8c.png" group-title="Sala" tvg-shift="-10",H2 Latinoamerica
 http://45.161.115.26:50000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png" group-title="Sala" tvg-shift="-5",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png" group-title="Sala" tvg-shift="-10",Discovery Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/canal371.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery h&h" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/992395-8c.png" group-title="Sala" tvg-shift="-5",Discovery h&h
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery h&h" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/992395-8c.png" group-title="Sala" tvg-shift="-10",Discovery h&h
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/canal374.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522142-8c.png" group-title="Sala" tvg-shift="-5",Lifetime
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522142-8c.png" group-title="Sala" tvg-shift="-10",Lifetime
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/canal379.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="MARIAIT" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="Sala" tvg-shift="-5",MARIAIT
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="MARIAIT" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="Sala" tvg-shift="-10",MARIAIT
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiatre/playlist.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425300-8c.png" group-title="Sala" tvg-shift="-5",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425300-8c.png" group-title="Sala" tvg-shift="-10",Cinecanal
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/canal430.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425302-8c.png" group-title="Sala" tvg-shift="-5",TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425302-8c.png" group-title="Sala" tvg-shift="-10",TNT
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/canal435.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505128-8c.png" group-title="Sala" tvg-shift="-5",AMC
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505128-8c.png" group-title="Sala" tvg-shift="-10",AMC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/canal444.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425308-8c.png" group-title="Sala" tvg-shift="-5",SPACE
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425308-8c.png" group-title="Sala" tvg-shift="-10",SPACE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/canal445.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="Morbido Terror" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416643-8c.png" group-title="Sala" tvg-shift="-5",Morbido Terror
+#EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="Morbido Terror" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416643-8c.png" group-title="Sala" tvg-shift="-10",Morbido Terror
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL470/canal470.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="Sala" tvg-shift="-5",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="Sala" tvg-shift="-10",Cinemax
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/canal481.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416547-8c.png" group-title="Sala" tvg-shift="-5",FX
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416547-8c.png" group-title="Sala" tvg-shift="-10",FX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/canal209.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="Tru TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425209-8c.png" group-title="Sala" tvg-shift="-5",Tru TV
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="Tru TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425209-8c.png" group-title="Sala" tvg-shift="-10",Tru TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/canal215.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png" group-title="Sala" tvg-shift="-5",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png" group-title="Sala" tvg-shift="-10",Comedy Central
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217/canal217.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="HOLALA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png" group-title="Sala" tvg-shift="-5",HOLALA
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="HOLALA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png" group-title="Sala" tvg-shift="-10",HOLALA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/canal219.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Mas Chic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416561-8c.png" group-title="Sala" tvg-shift="-5",Mas Chic
+#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Mas Chic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416561-8c.png" group-title="Sala" tvg-shift="-10",Mas Chic
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL221/canal221.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425217-8c.png" group-title="Sala" tvg-shift="-5",Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425217-8c.png" group-title="Sala" tvg-shift="-10",Food Network
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2145/canal2145.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png" group-title="Sala" tvg-shift="-5",Discovery ID
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery ID" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png" group-title="Sala" tvg-shift="-10",Discovery ID
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/canal2376.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="Syfy" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425219-8c.png" group-title="Sala" tvg-shift="-5",Syfy
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="Syfy" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425219-8c.png" group-title="Sala" tvg-shift="-10",Syfy
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/canal257.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="ElGarageTV.mx" tvg-name="Garage TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425221-8c.png" group-title="Sala" tvg-shift="-5",Garage TV
+#EXTINF:-1 tvg-id="ElGarageTV.mx" tvg-name="Garage TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425221-8c.png" group-title="Sala" tvg-shift="-10",Garage TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL269/canal269.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425223-8c.png" group-title="Sala" tvg-shift="-5",Glitz Latinoamerica
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz Latinoamerica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425223-8c.png" group-title="Sala" tvg-shift="-10",Glitz Latinoamerica
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/canal270.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" group-title="Sala" tvg-shift="-5",Golden Plus
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus-mediano.png" group-title="Sala" tvg-shift="-10",Golden Plus
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/canal436.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="Sala" tvg-shift="-5",Golden Edge
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="Sala" tvg-shift="-10",Golden Edge
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/canal484.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Sala" tvg-shift="-5",Golden
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Sala" tvg-shift="-10",Golden
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/canal123.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="Sala" tvg-shift="-5",Golden Premier
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="Sala" tvg-shift="-10",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png" group-title="Sala" tvg-shift="-5",Universal TV
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png" group-title="Sala" tvg-shift="-10",Universal TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/canal207.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416581-8c.png" group-title="Sala" tvg-shift="-5",TBS
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416581-8c.png" group-title="Sala" tvg-shift="-10",TBS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/canal273.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416587-8c.png" group-title="Sala" tvg-shift="-5",Telemundo
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416587-8c.png" group-title="Sala" tvg-shift="-10",Telemundo
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/canal85.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="BabyFirstTV(English).mx" tvg-name="BabyFirst TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425227-8c.png" group-title="Sala" tvg-shift="-5",BabyFirst TV
+#EXTINF:-1 tvg-id="BabyFirstTV(English).mx" tvg-name="BabyFirst TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425227-8c.png" group-title="Sala" tvg-shift="-10",BabyFirst TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/canal1984.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV Latino" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425225-8c.png" group-title="Sala" tvg-shift="-5",Baby TV Latino
+#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV Latino" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425225-8c.png" group-title="Sala" tvg-shift="-10",Baby TV Latino
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL116/canal116.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416595-8c.png" group-title="Sala" tvg-shift="-5",Nick Jr
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416595-8c.png" group-title="Sala" tvg-shift="-10",Nick Jr
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL310/canal310.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png" group-title="Sala" tvg-shift="-5",Nickmusic
+#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png" group-title="Sala" tvg-shift="-10",Nickmusic
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL314/canal314.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nickelodeon" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425231-8c.png" group-title="Sala" tvg-shift="-5",Nickelodeon
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nickelodeon" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425231-8c.png" group-title="Sala" tvg-shift="-10",Nickelodeon
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/canal315.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Nicktoons(English).mx" tvg-name="Teen Nick" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518587-8c.png" group-title="Sala" tvg-shift="-5",Teen Nick
+#EXTINF:-1 tvg-id="Nicktoons(English).mx" tvg-name="Teen Nick" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518587-8c.png" group-title="Sala" tvg-shift="-10",Teen Nick
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/canal2147.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="Cartoonito" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/942888-8c.png" group-title="Sala" tvg-shift="-5",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="Cartoonito" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/942888-8c.png" group-title="Sala" tvg-shift="-10",Cartoonito
 http://181.189.243.254:8000/play/a0pa/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425237-8c.png" group-title="Sala" tvg-shift="-5",Tooncast
+#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425237-8c.png" group-title="Sala" tvg-shift="-10",Tooncast
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/canal328.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Fuel TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052221-8c.png" group-title="Sala" tvg-shift="-5",Fuel TV
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Fuel TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1052221-8c.png" group-title="Sala" tvg-shift="-10",Fuel TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2587/canal2587.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png" group-title="Sala" tvg-shift="-5",Discovery Theater
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png" group-title="Sala" tvg-shift="-10",Discovery Theater
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/canal351.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425247-8c.png" group-title="Sala" tvg-shift="-5",Discovery World
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425247-8c.png" group-title="Sala" tvg-shift="-10",Discovery World
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL356/canal356.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal PLanet" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425249-8c.png" group-title="Sala" tvg-shift="-5",Animal PLanet
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal PLanet" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425249-8c.png" group-title="Sala" tvg-shift="-10",Animal PLanet
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2378/canal2378.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png" group-title="Sala" tvg-shift="-5",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png" group-title="Sala" tvg-shift="-10",Discovery Turbo
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2379/canal2379.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png" group-title="Sala" tvg-shift="-5",HGTV
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png" group-title="Sala" tvg-shift="-10",HGTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3105/canal3105.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004415-8c.png" group-title="Sala" tvg-shift="-5",TLC
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004415-8c.png" group-title="Sala" tvg-shift="-10",TLC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2380/canal2380.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425259-8c.png" group-title="Sala" tvg-shift="-5",Curiosity Stream
+#EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425259-8c.png" group-title="Sala" tvg-shift="-10",Curiosity Stream
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2594/canal2594.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425261-8c.png" group-title="Sala" tvg-shift="-5",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425261-8c.png" group-title="Sala" tvg-shift="-10",Discovery Science
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL381/canal381.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="WOBI" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1070676-8c.png" group-title="Sala" tvg-shift="-5",WOBI
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="WOBI" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1070676-8c.png" group-title="Sala" tvg-shift="-10",WOBI
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL387/canal387.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416631-8c.png" group-title="Sala" tvg-shift="-5",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416631-8c.png" group-title="Sala" tvg-shift="-10",Paramount Network
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/canal1726.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Pelicula" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604399-8c.png" group-title="Sala" tvg-shift="-5",De Pelicula
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Pelicula" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604399-8c.png" group-title="Sala" tvg-shift="-10",De Pelicula
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/canal335.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Pelicula Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604212-8c.png" group-title="Sala" tvg-shift="-5",De Pelicula Plus
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Pelicula Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604212-8c.png" group-title="Sala" tvg-shift="-10",De Pelicula Plus
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/canal442.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486317-8c.png" group-title="Sala" tvg-shift="-5",A3Cine
+#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3Cine" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486317-8c.png" group-title="Sala" tvg-shift="-10",A3Cine
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3112/canal3112.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Sony Movie Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/995744-8c.png" group-title="Sala" tvg-shift="-5",Sony Movie Channel
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="Sony Movie Channel" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/995744-8c.png" group-title="Sala" tvg-shift="-10",Sony Movie Channel
 http://181.189.243.254:8000/play/a0qc/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425350-8c.png" group-title="Sala" tvg-shift="-5",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425350-8c.png" group-title="Sala" tvg-shift="-10",Studio Universal
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/canal492.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="Europa Europa" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425364-8c.png" group-title="Sala" tvg-shift="-5",Europa Europa
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="Europa Europa" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425364-8c.png" group-title="Sala" tvg-shift="-10",Europa Europa
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/canal136.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="Film&Arts" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425366-8c.png" group-title="Sala" tvg-shift="-5",Film&Arts
+#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="Film&Arts" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425366-8c.png" group-title="Sala" tvg-shift="-10",Film&Arts
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/canal137.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-Sat" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416653-8c.png" group-title="Sala" tvg-shift="-5",I-Sat
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-Sat" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416653-8c.png" group-title="Sala" tvg-shift="-10",I-Sat
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/canal495.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png" group-title="Sala" tvg-shift="-5",TCM
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png" group-title="Sala" tvg-shift="-10",TCM
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/canal496.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Sala" tvg-shift="-5",HBO
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Sala" tvg-shift="-10",HBO
 http://181.189.243.254:8000/play/a0or/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="Sala" tvg-shift="-5",HBO 2
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="Sala" tvg-shift="-10",HBO 2
 http://181.189.243.254:8000/play/a0os/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" group-title="Sala" tvg-shift="-5",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" group-title="Sala" tvg-shift="-10",HBO Family
 http://181.189.243.254:8000/play/a0ou/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="Sala" tvg-shift="-5",HBO Plus
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="Sala" tvg-shift="-10",HBO Plus
 http://181.189.243.254:8000/play/a0ot/index.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" group-title="Sala" tvg-shift="-5",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" group-title="Sala" tvg-shift="-10",HBO Xtreme
 http://181.189.243.254:8000/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Musica Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png" group-title="Sala" tvg-shift="-5",Telehit Musica Plus
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Musica Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png" group-title="Sala" tvg-shift="-10",Telehit Musica Plus
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL702/canal702.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Musica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png" group-title="Sala" tvg-shift="-5",Telehit Musica
+#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Musica" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png" group-title="Sala" tvg-shift="-10",Telehit Musica
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL731/canal731.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png" group-title="Sala" tvg-shift="-5",MTV
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png" group-title="Sala" tvg-shift="-10",MTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/canal726.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425451-8c.png" group-title="Sala" tvg-shift="-5",MTV Live
+#EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425451-8c.png" group-title="Sala" tvg-shift="-10",MTV Live
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/canal701.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="MTVHits(English).mx" tvg-name="MTV Hits" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518653-8c.png" group-title="Sala" tvg-shift="-5",MTV Hits
+#EXTINF:-1 tvg-id="MTVHits(English).mx" tvg-name="MTV Hits" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518653-8c.png" group-title="Sala" tvg-shift="-10",MTV Hits
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL727/canal727.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/896490-8c.png" group-title="Sala" tvg-shift="-5",MTV 00s
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/896490-8c.png" group-title="Sala" tvg-shift="-10",MTV 00s
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL703/canal703.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png" group-title="Sala" tvg-shift="-5",MTV 80s
+#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png" group-title="Sala" tvg-shift="-10",MTV 80s
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/canal728.m3u8?totalplay=%2F.ts
