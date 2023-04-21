@@ -1,3 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/3m97yp6853tgjwxdydxq"
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="Sala",Azteca Uno
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/canal113.m3u8?totalplay=%2F.ts
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" group-title="Sala",Las Estrellas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/canal102.m3u8?totalplay=%2F.ts
