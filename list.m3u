@@ -149,7 +149,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/canal1984.m3u8?totalplay=%2F.ts
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL116/canal116.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416595-8c.png" group-title="Sala" ,Nick Jr
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL310/canal310.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png" group-title="Sala" Nickmusic
+#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png" group-title="Sala", Nickmusic
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL314/canal314.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nickelodeon" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425231-8c.png" group-title="Sala" ,Nickelodeon
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/canal315.m3u8?totalplay=%2F.ts
@@ -173,7 +173,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2379/canal2379.m3u8?totalplay=%2F.ts
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3105/canal3105.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004415-8c.png" group-title="Sala" ,TLC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2380/canal2380.m3u8?totalplay=%2F.ts
-#EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425259-8c.png" group-title="Sala" Curiosity Stream
+#EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425259-8c.png" group-title="Sala", Curiosity Stream
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2594/canal2594.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425261-8c.png" group-title="Sala",Discovery Science
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL381/canal381.m3u8?totalplay=%2F.ts
