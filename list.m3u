@@ -219,3 +219,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL727/canal727.m3u8?totalplay=%2F.ts
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL703/canal703.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png" group-title="Sala",MTV 80s
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/canal728.m3u8?totalplay=%2F.ts
+
+
+
+#EXTINF:-1, Cartoon Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
+https://edge1-zapopan.izzigo.tv/live4/out/u/dash/CARTOON-NETWORK-HD/default.mpd
