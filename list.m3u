@@ -293,19 +293,19 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/canal496.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png" group-title="Sala" ,Universal TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/canal207.m3u8?totalplay=%2F.ts
 
-#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality" tvg-logo="" group-title="Sala" ,Universal Reality
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_reality-mediano.png" group-title="Sala" ,Universal Reality
 http://laondatv.online:8080/live/LUIS0511/MARTINEZ2022/278726.m3u8
 
-#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema" tvg-logo="" group-title="Sala" ,Universal Cinema
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png" group-title="Sala" ,Universal Cinema
 http://laondatv.online:8080/live/LUIS0511/MARTINEZ2022/278729.m3u8
 
-#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="" group-title="Sala" ,Universal Comedy
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_comedy-mediano.png" group-title="Sala" ,Universal Comedy
 http://laondatv.online:8080/live/LUIS0511/MARTINEZ2022/278771.m3u8
 
-#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Premiere" tvg-logo="Universal Crime" group-title="Sala" ,Universal Crime
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_crime-mediano.png" group-title="Sala" ,Universal Crime
 http://laondatv.online:8080/live/LUIS0511/MARTINEZ2022/278720.m3u8
 
-#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere" tvg-logo="" group-title="Sala" ,Universal Premiere
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere-mediano.png" group-title="Sala" ,Universal Premiere
 http://sdmx.us:25461/live/Ivan3/QCxNLnabwF/2081446.m3u8
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Sala" ,HBO
@@ -319,6 +319,9 @@ http://181.189.243.254:8000/play/a0ou/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="Sala" ,HBO Plus
 http://181.189.243.254:8000/play/a0ot/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="Sala" ,HBO Plus
+http://45.238.20.235:8000/play/a12m/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" group-title="Sala" ,HBO Xtreme
 http://181.189.243.254:8000/play/a0ov/index.m3u8
@@ -344,5 +347,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL703/canal703.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png" group-title="Sala",MTV 80s
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/canal728.m3u8?totalplay=%2F.ts
 
-#EXTINF:-1, tvg-logo="http://l3d.us:25461/images/777d0c971fc676fd22ec87dde7c502fd.jpg",Super Mario Bros
-http://sdmx.us:25461/movie/Ivan3/QCxNLnabwF/2169091.mp4
+#EXTINF:-1 tvg-id="541dtv.cl", tvg-logo="https://i.imgur.com/kFiLm3n.png", HBO Pop
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
