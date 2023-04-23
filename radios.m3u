@@ -1,3 +1,42 @@
-#EXTM3U url-tvg="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-cdmx.png"
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-cdmx.png",Amor 95.3
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-cdmx.png",Amor 95.3 Ciudad de México
 https://14923.live.streamtheworld.com/XHSHFM_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-92-3.png",Amor 92.3 Hermosillo
+https://18823.live.streamtheworld.com/XHUSSFM_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-toluca.png",Amor 92.5 Toluca
+https://24963.live.streamtheworld.com/XHRJFM_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-acapulco.png",Amor 98.5 Acapulco
+https://24983.live.streamtheworld.com/XHAGSFMAAC_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-guadalajara.png",Amor 93.1 Guadalajara
+https://17853.live.streamtheworld.com/XHPIFMAAC_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-vallarta.png",Amor 90.3 Puerto Vallarta
+https://18393.live.streamtheworld.com/XHVAYFMAAC_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-monterrey.png",Amor 90.9 Monterrey
+https://27153.live.streamtheworld.com/XHOKFMAAC_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-oaxaca.png",Amor 89.7 Oaxaca
+https://18723.live.streamtheworld.com/XHOCAAAC_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-puebla.png",Amor 103.3 Puebla
+https://16603.live.streamtheworld.com/XHRHFMAAC_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-queretaro.png",Amor 97.9 Queretaro
+https://18423.live.streamtheworld.com/XHQTOAAC_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-colima.png",Amor 99.7 Colima
+https://14923.live.streamtheworld.com/XHSHFM_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-villahermosa.png",Amor 96.5 Villahermosa
+https://14613.live.streamtheworld.com/XHOPFM_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-guaymas.png",Amor 101.0 Guaymas
+https://sp3.servidorrprivado.com/4474/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-zacatecas.png",Amor 99.3 Zacatecas
+https://cast.zuperdns.net/8002/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-91-7-xalapa.png",Amor 91.7 Xalapa
+https://streaming.servicioswebmx.com:8126/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-de-mis-amores.png",Amor de Mis Amores
+https://18733.live.streamtheworld.com/ACIR21_S01_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-en-concierto.png",Amor en Concierto
+https://17813.live.streamtheworld.com/ACIR39_S01_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-de-divas.png",Amor de Divas
+https://17853.live.streamtheworld.com/ACIR01_S01_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-solo-pop.png",Amor Solo Pop
+https://18683.live.streamtheworld.com/ACIR03_S01_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-de-dos.png",Amor de Dos
+https://14083.live.streamtheworld.com/ACIR02_S01_SC
+#EXTINF:-1 tvg-logo="",
