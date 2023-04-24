@@ -1,3 +1,3 @@
-#EXTM3U
-#EXTINF:-1,
-http://45.238.20.235:8000/play/a120/index.m3u8,es
+#EXTINF:-1,Nombre del Canal
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw"
+https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
