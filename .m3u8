@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/xe47yz12m7udj8jjn9vq"
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Sala" ,HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
