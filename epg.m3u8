@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="Sala" ,HBO 2
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" group-title="Sala" ,HBO Family
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="Sala" ,HBO Plus
+#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png" group-title="Sala" ,HBO POP
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" group-title="Sala" ,HBO Xtreme
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO Mundi" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="Sala" ,HBO Mundi
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="Sala" ,HBO Signature
