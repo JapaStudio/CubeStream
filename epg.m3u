@@ -23,3 +23,6 @@ https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Dis
 
 #EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="Sala" ,HBO Signature
 https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discoveryfvfr_Kids.m3u8
+
+#EXTINF:-1 tvg-id="Dreamworks.br" tvg-name="Dreamworks" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="Sala" ,Dreamworks
+https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Diabcdscoveryfvfr_Kids.m3u8
