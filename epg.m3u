@@ -1,28 +1,448 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Sala" ,HBO
-https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discoverytt_Kids.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="" group-title="Sala" ,Azteca Uno
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="Sala" ,HBO 2
-https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kittttds.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="" group-title="Sala" ,Las Estrellas
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" group-title="Sala" ,HBO Family
-https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Dittscovery_Kids.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-logo="" group-title="Sala" ,Imagen TV
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Imagen-Television-HD/default.mpd
 
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="Sala" ,HBO Plus
-https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Ditttscovery_Kids.m3u8
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="" group-title="Sala" ,Foro TV
+https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 
-#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png" group-title="Sala" ,HBO POP
-https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discoverybbb_Kids.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="" group-title="Sala" ,Canal 5
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" group-title="Sala" ,HBO Xtreme
-https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kidsff.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="Sala" ,Azteca 7
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 
-#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO Mundi" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="Sala" ,HBO Mundi
-https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discoveryvf_Kids.m3u8
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A mas" tvg-logo="" group-title="Sala" ,A mas
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
 
-#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="Sala" ,HBO Signature
-https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discoveryfvfr_Kids.m3u8
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="" group-title="Sala" ,Multimedios Plus
+https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 
-#EXTINF:-1 tvg-id="Dreamworks.br" tvg-name="Dreamworks" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png" group-title="Sala" ,Dreamworks
-https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Diabcdscoveryfvfr_Kids.m3u8
+#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV" tvg-logo="" group-title="Sala" ,Quiero TV
+https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
+
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="Nu9ve" tvg-logo="" group-title="Sala" ,Nu9ve
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Once.mx" tvg-name="Once" tvg-logo="" group-title="Sala" ,Once.mx
+https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal 14" tvg-logo="" group-title="Sala" ,Canal 14
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
+
+#EXTINF:-1 tvg-id="MXNuestroCine.mx" tvg-name="MX Nuestro Cine" tvg-logo="" group-title="Sala" ,MX Nuestro Cine
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
+
+#EXTINF:-1 tvg-id="CANAL22INTERNACIONAL.mx" tvg-name="Canal 22" tvg-logo="" group-title="Sala" ,Canal 22
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="adn40.mx" tvg-logo="adn 40" group-title="Sala" ,adn 40
+https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
+
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio TV" tvg-logo="" group-title="Sala" ,Milenio TV
+https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
+
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="" group-title="Sala" ,TV UNAM
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
+
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="" group-title="Sala" ,A&E
+https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Antena3.mx" tvg-name="Antena3" tvg-logo="" group-title="Sala" ,Antena3
+https://live5-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo" tvg-logo="" group-title="Sala" ,Telemundo
+https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ClanTv.mx" tvg-name="ClanTv" tvg-logo="" group-title="Sala" ,ClanTv
+https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-name="TVE" tvg-logo="" group-title="Sala" ,TVE
+https://live5-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd
+
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="" group-title="Sala" ,Glitz
+https://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
+
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="" group-title="Sala" ,Unicable
+https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="" group-title="Sala" ,AXN
+https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="ISAT.mx" tvg-logo="" group-title="Sala" ,ISAT
+https://live3-ott.izzigo.tv/out/u/dash/ISAT-SD/default.mpd
+
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="" group-title="Sala" ,TNT Series
+https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
+
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="" group-title="Sala" ,SYFY
+https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
+
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="" group-title="Sala" ,Star Channel
+https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV" tvg-logo="" group-title="Sala" ,TruTV
+https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="" group-title="Sala" ,Comedy Central
+https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="" group-title="Sala" ,Distrito Comedia
+https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
+
+#EXTINF:-1 tvg-id="EEntertainmentTV.mxr" tvg-name="EEntertainment" tvg-logo="" group-title="Sala" ,EEntertainmentTV
+https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="" group-title="Sala" ,Lifetime
+https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNovelas" tvg-logo="" group-title="Sala" ,TLNovelas
+https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
+
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="HOLATV" tvg-logo="" group-title="Sala" ,HOLATV
+https://live1-ott.izzigo.tv/out/u/dash/HOLA-TV-HD/default.mpd
+
+#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="MasChic" tvg-logo="" group-title="Sala" ,MasChic
+https://live1-ott.izzigo.tv/out/u/dash/MASCHIC-HD/default.mpd
+
+#EXTINF:-1 tvg-id="StarTVE.mx" tvg-name=StarTVE" tvg-logo="" group-title="Sala" ,StarTV
+https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TV5.mx" tvg-name="TV5" tvg-logo="" group-title="Sala" ,TV5
+https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
+
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.mx" tvg-name="GaliciaTV" tvg-logo="" group-title="Sala" ,GaliciaTV
+https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
+
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="El Gourmet" tvg-logo="" group-title="Sala" ,El Gourmet
+https://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd
+
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="" group-title="Sala" ,Food Network
+https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DWDeutschplus(German-English).mx" tvg-name="DW +" tvg-logo="" group-title="Sala" ,DW +
+https://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
+
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW" tvg-logo="" group-title="Sala" ,DW
+https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
+
+#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="Atreseries" tvg-logo="" group-title="Sala" ,Atreseries
+https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="" group-title="Sala" ,TBS
+https://live3-ott.izzigo.tv/out/u/dash/TBS-SD/default.mpd
+
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="" group-title="Sala" ,Warner Channel
+https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal TV" tvg-logo="" group-title="Sala" ,Universal TV
+https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Canal Sony" tvg-logo="" group-title="Sala" ,Canal Sony
+https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="" group-title="Sala" ,HGTV
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="" group-title="Sala" ,TLC
+https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="" group-title="Sala" ,Discovery Home & Health
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery Investigation" tvg-logo="" group-title="Sala" ,Discovery Investigation
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World" tvg-logo="" group-title="Sala" ,Discovery World
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel" tvg-logo="" group-title="Sala" ,Discovery Channel
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater" tvg-logo="" group-title="Sala" ,Discovery Theater
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="" group-title="Sala" ,Discovery Turbo
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science" tvg-logo="" group-title="Sala" ,Discovery Science
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="" group-title="Sala" ,National Geographic
+https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="" group-title="Sala" ,History
+https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="" group-title="Sala" ,History 2
+https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="Sala" ,Animal Planet
+https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+
+#EXTINF:-1 tvg-id="CanalLocal.mx" tvg-name="DOGTV" tvg-logo="" group-title="Sala" ,DOGTV
+https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
+
+#EXTINF:-1 tvg-id="TelefeInternacional.mx" tvg-name="Telefe" tvg-logo="" group-title="Sala" ,Telefe
+https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="RedeGloboINTL2(Portuguese).mx" tvg-name="TV Globo" tvg-logo="" group-title="Sala" ,TV Globo
+https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
+
+#EXTINF:-1 tvg-id="NHKWorldTV(English).mx" tvg-name="NHK World TV" tvg-logo="" group-title="Sala" ,NHK World TV
+https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="Mariavision" tvg-logo="" group-title="Sala" ,Mariavision
+https://live3-ott.izzigo.tv/out/u/dash/MARIAVISION-HD/default.mpd
+
+#EXTINF:-1 tvg-id="SonyMoviesBrazil.br" tvg-name="Sony Movies" tvg-logo="" group-title="Sala" ,Sony Movies
+https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="" group-title="Sala" ,FX
+https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Pelicula" tvg-logo="" group-title="Sala" ,De Pelicula
+https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
+
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Pelicula Plus" tvg-logo="" group-title="Sala" ,De Pelicula Plus
+https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="" group-title="Sala" ,Golden
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="" group-title="Sala" ,Golden Plus
+https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="" group-title="Sala" ,Golden Edge
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-logo="" group-title="Sala" ,Golden Premier
+https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="" group-title="Sala" ,Cinemax
+https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="" group-title="Sala" ,TNT
+https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
+
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="" group-title="Sala" ,AMC
+https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="" group-title="Sala" ,TCM
+https://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
+
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="" group-title="Sala" ,Cinecanal
+https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount" tvg-logo="" group-title="Sala" ,Paramount
+https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
+
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="EuropaEuropa" tvg-logo="" group-title="Sala" ,EuropaEuropa
+https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="Atrescine" tvg-logo="" group-title="Sala" ,Atrescine
+https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="" group-title="Sala" ,HBO
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="" group-title="Sala" ,HBO 2
+https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="" group-title="Sala" ,HBO Family
+https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="" group-title="Sala" ,HBO Plus
+https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/playlist.mpd
+
+#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP" tvg-logo="" group-title="Sala" ,HBO POP
+https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="" group-title="Sala" ,HBO Xtreme
+https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO Mundi" tvg-logo="" group-title="Sala" ,HBO Mundi
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature" tvg-logo="" group-title="Sala" ,HBO Signature
+https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere" tvg-logo="" group-title="Sala" ,Universal Premiere
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema" tvg-logo="" group-title="Sala" ,Universal Cinema
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy" tvg-logo="" group-title="Sala" ,Universal Comedy
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
+
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime" tvg-logo="" group-title="Sala" ,Universal Crime
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
+
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality" tvg-logo="" group-title="Sala" ,Universal Reality
+https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Dreamworks.br" tvg-name="DreamWorks" tvg-logo="" group-title="Sala" ,DreamWorks
+https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Bitme.mx" tvg-name="Bitme" tvg-logo="" group-title="Sala" ,Bitme
+https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="" group-title="Sala" ,Cartoon Network
+https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="" group-title="Sala" ,Discovery Kids
+https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="" group-title="Sala" ,Disney Channel
+https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="" group-title="Sala" ,Disney Junior
+https://live5-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="" group-title="Sala" ,Nick
+https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="Teen Nick" tvg-logo="" group-title="Sala" ,Teen Nick
+https://live4-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr" tvg-logo="" group-title="Sala" ,Nick Jr
+https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="" group-title="Sala" ,Nickmusic
+https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
+
+#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="Cartoonito" tvg-logo="" group-title="Sala" ,Cartoonito
+https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="" group-title="Sala" ,Tooncast
+https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
+
+#EXTINF:-1 tvg-id="CanalLocal.mx" tvg-name="Once Niñas y Niños" tvg-logo="" group-title="Sala" ,Once Niñas y Niños
+https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
+
+#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV" tvg-logo="" group-title="Sala" ,Baby TV
+https://live4-ott.izzigo.tv/out/u/dash/BABY-TV-SD/default.mpd
+
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit" tvg-logo="" group-title="Sala" ,Telehit
+https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
+
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="" group-title="Sala" ,MTV
+https://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
+
+#EXTINF:-1 tvg-id="VideoRola.mx" tvg-name="Video Rola" tvg-logo="" group-title="Sala" ,Video Rola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Musica Plus" tvg-logo="" group-title="Sala" ,Telehit Musica Plus
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
+
+#EXTINF:-1 tvg-id="MTVHitsInternational.mx" tvg-name="MTV Hits" tvg-logo="" group-title="Sala" ,MTV Hits
+https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
+
+#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Musica" tvg-logo="" group-title="Sala" ,Telehit Musica
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
+
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="" group-title="Sala" ,MTV 00s
+https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ClubMTV(English).mx" tvg-name="MTV Club" tvg-logo="" group-title="Sala" ,MTV Club
+https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
+
+#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="" group-title="Sala" ,MTV 80s
+https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
+
+#EXTINF:-1 tvg-id="MuchMusic.mx" tvg-name="Much Music" tvg-logo="" group-title="Sala" ,Much Music
+https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
+
+#EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live" tvg-logo="" group-title="Sala" ,MTV Live
+https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="" group-title="Sala" ,Bandamax
+http://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-id="CNBC(English).mx" tvg-name="CNBC" tvg-logo="" group-title="Sala" ,CNBC
+https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd
+
+#EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="CNN" tvg-logo="" group-title="Sala" ,CNN
+https://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Espanol" tvg-logo="" group-title="Sala" ,CNN En Espanol
+https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
+
+#EXTINF:-1 tvg-id="CNNInternational(English).mx" tvg-name="CNN Internacional" tvg-logo="" group-title="Sala" ,CNN Internacional
+https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
+
+#EXTINF:-1 tvg-id="FoxNewsChannel(English).mx" tvg-name="Fox News" tvg-logo="" group-title="Sala" ,Fox News
+https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="Bloomberg" tvg-logo="" group-title="Sala" ,Bloomberg
+https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="" group-title="Sala" ,Justicia TV
+https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="" group-title="Sala" ,Teleformula
+https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish(Spanish).mx" tvg-name="Al Jazeera" tvg-logo="" group-title="Sala" ,Al Jazeera
+https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
+
+#EXTINF:-1 tvg-id="BBCNews(LatinAmerica).mx" tvg-name="BBC News" tvg-logo="" group-title="Sala" ,BBC News
+https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
+
+#EXTINF:-1 tvg-id="euronews.mx" tvg-name="Euronews" tvg-logo="" group-title="Sala" ,Euronews
+https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
+
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT" tvg-logo="" group-title="Sala" ,RT
+https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HLNInternational(English).mx" tvg-name="HLN" tvg-logo="" group-title="Sala" ,HLN
+https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
+
+#EXTINF:-1 tvg-id="RAIInternationalSpanish.mx" tvg-name="RAI" tvg-logo="" group-title="Sala" ,RAI
+https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="" group-title="Sala" ,TUDN
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports" tvg-logo="" group-title="Sala" ,FOX Sports
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sala" ,Fox Sports 2
+https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sala" ,Fox Sports 2
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="" group-title="Sala" ,ESPN
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="" group-title="Sala" ,ESPN 2
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="" group-title="Sala" ,ESPN 3
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="" group-title="Sala" ,ESPN Extra
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="" group-title="Sala" ,Afizzionados
+https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="RealMadridTV.mx" tvg-name="" tvg-logo="Real Madrid TV" group-title="Sala" ,Real Madrid TV
+https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
+
+#EXTINF:-1 tvg-id="NFLNetwork(English).mx" tvg-name="NFL" tvg-logo="" group-title="Sala" ,NFL
+https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
+
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina" tvg-logo="" group-title="Sala" ,Adrenalina
+https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="Golf Channel" tvg-logo="" group-title="Sala" ,Golf Channel
+https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
