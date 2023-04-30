@@ -1,4 +1,4 @@
-#EXTM3U tvg-url"http://m3u4u.com/epg/d5k2nv139muj51xey984"
+#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nv139muj51xey984"
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="" group-title="Sala" ,Azteca Uno
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
