@@ -53,11 +53,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
 
-#EXTINF:-1 tvg-id="Inova.mx" tvg-name="Inova" tvg-logo="" group-title="Sala" ,Inova
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live1-ott.izzigo.tv/out/u/dash/INNOVA-SD/default.mpd
-
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="" group-title="Sala" ,A&E
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
@@ -88,7 +83,7 @@ https://live5-ott.izzigo.tv/out/u/dash/TVE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
 
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="" group-title="Sala" ,Unicable.mx
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="" group-title="Sala" ,Unicable
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
@@ -96,7 +91,7 @@ https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="" group-title="Sala" ,AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live4-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
 
 #EXTINF:-1 tvg-id="ISAT.mx" tvg-name="ISAT.mx" tvg-logo="" group-title="Sala" ,ISAT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -133,7 +128,7 @@ https://live2-ott.izzigo.tv/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
 
-#EXTINF:-1 tvg-id="EEntertainmentTV.mxr" tvg-name="EEntertainment" tvg-logo="" group-title="Sala" ,EEntertainmentTV.mx
+#EXTINF:-1 tvg-id="EEntertainmentTV.mxr" tvg-name="EEntertainment" tvg-logo="" group-title="Sala" ,EEntertainmentTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
@@ -183,7 +178,7 @@ https://live1-ott.izzigo.tv/out/u/dash/GOURMET-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
 
-#EXTINF:-1 tvg-id="Dreamworks.br" tvg-name="DreamWorks" tvg-logo="" group-title="Sala" ,DreamWorks
+#EXTINF:-1 tvg-id="DWDeutschplus(German-English).mx" tvg-name="DW +" tvg-logo="" group-title="Sala" ,DW +
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
@@ -198,7 +193,7 @@ https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live3-ott.izzigo.tv/out/u/dash/SONGIE-TV-SD/default.mpd
 
-#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="Atreseries" tvg-logo="" group-title="Sala" ,Atreseries.mx
+#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="Atreseries" tvg-logo="" group-title="Sala" ,Atreseries
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
@@ -237,11 +232,6 @@ https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
-
-#EXTINF:-1 tvg-id="CVSHOPPING.mx" tvg-name="CV SHOPPING" tvg-logo="" group-title="Sala" ,CV SHOPPING
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="Discovery Investigation" tvg-logo="" group-title="Sala" ,Discovery Investigation
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
