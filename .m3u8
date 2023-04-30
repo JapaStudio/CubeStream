@@ -1,5 +1,114 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/xe47yz12m7udj8jjn9vq"
 
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="" group-title="Sala" ,Azteca Uno
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="" group-title="Sala" ,Las Estrellas
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-logo="" group-title="Sala" ,Imagen TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Imagen-Television-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="" group-title="Sala" ,Foro TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="" group-title="Sala" ,Canal 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="Sala" ,Azteca 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-Cinco-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+
+#EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A mas" tvg-logo="" group-title="Sala" ,A mas
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
+
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="" group-title="Sala" ,Multimedios Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="QuieroTv.mx" tvg-name="Quiero TV" tvg-logo="" group-title="Sala" ,Quiero TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
+
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="Nu9ve" tvg-logo="" group-title="Sala" ,Nu9ve
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Once.mx" tvg-name="Once" tvg-logo="" group-title="Sala" ,Once.mx
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal 14" tvg-logo="" group-title="Sala" ,Canal 14
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
+
+#EXTINF:-1 tvg-id="MXNuestroCine.mx" tvg-name="MX Nuestro Cine" tvg-logo="" group-title="Sala" ,MX Nuestro Cine
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-22-2-SD/default.mpd
+
+#EXTINF:-1 tvg-id="CANAL22INTERNACIONAL.mx" tvg-name="Canal 22" tvg-logo="" group-title="Sala" ,Canal 22
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_Canal-22-SD/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="adn40.mx" tvg-logo="adn 40" group-title="Sala" ,adn 40
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd
+
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio TV" tvg-logo="" group-title="Sala" ,Milenio TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="" group-title="Sala" ,Ingenio TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
+
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="" group-title="Sala" ,TV UNAM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
+
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="" group-title="Sala" ,A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
